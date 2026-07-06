@@ -1,0 +1,6 @@
+{
+  "name": "Sertifikat Generatori",
+  "description": "Sertifikatlar yaratish, tahrirlash, yuklab olish va QR-kod orqali tekshirish tizimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
